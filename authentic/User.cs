@@ -14,8 +14,10 @@ namespace authentic
 
         public User(string login, string password)
         {
+            //login password
             Login = login;
             Password = password;
+
         }
     }
 }
