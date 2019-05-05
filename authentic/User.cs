@@ -15,6 +15,7 @@ namespace authentic
         public User(string login, string password)
         {
             //login password
+            //new comment
             Login = login;
             Password = password;
 
